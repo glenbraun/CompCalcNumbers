@@ -33,5 +33,5 @@ Arg = the amount to add
 Count up V, and count down Arg until Arg is zero.
 
 ## Implementation
-The implementation supports positive and negative values, Add, Subtract, and Roman numerals, and base 2, 8, 10, and 16 of Arabic numerals.
+The implementation supports positive and negative values, Add, Subtract, and Roman numerals, and base 2, 8, 10, and 16 of Arabic numerals. The code is at https://github.com/glenbraun/CompCalcNumbers/blob/master/num/Program.fs
 
